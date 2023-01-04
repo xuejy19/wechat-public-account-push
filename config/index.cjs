@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'b056eda9f395fc0ed12a56fec9773aec',
 
   PROVINCE: '重庆',
-  CITY: '渝中区',
+  CITY: '重庆',
 
   USERS: [
     {
@@ -24,7 +24,7 @@ const USER_CONFIG = {
       id: 'o-ENC6e9oiQr6uH5keVX3yLKq0C8',
       // https://github.com/xuejy19/wechat-public-account-push/blob/master/config/index.cjs
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'BdXzh16n8xPhmtx8piqUk8mww192uQauM2x0GflKkyU',
+      useTemplateId: 'Dj6zGWyyl1nb5r0wZaexHyJdm3J4BNIl5pVeJj2wRoM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
