@@ -19,7 +19,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '晨斐小乖兔',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o-ENC6Y3uWnONbnA1h6srTtt-fFI',
       // https://github.com/xuejy19/wechat-public-account-push/blob/master/config/index.cjs
