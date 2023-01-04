@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '晨斐小乖兔',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o-ENC6e9oiQr6uH5keVX3yLKq0C8',
+      id: 'o-ENC6Y3uWnONbnA1h6srTtt-fFI',
       // https://github.com/xuejy19/wechat-public-account-push/blob/master/config/index.cjs
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'mROUjPELFOTnThfTjoCbIBBnpX7lqN8dNQnDeyDO8mw',
