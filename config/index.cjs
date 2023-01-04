@@ -24,7 +24,7 @@ const USER_CONFIG = {
       id: 'o-ENC6e9oiQr6uH5keVX3yLKq0C8',
       // https://github.com/xuejy19/wechat-public-account-push/blob/master/config/index.cjs
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'GKyPzLeIv_pBs-m548CBzJeVEE1wY6qQ0ne7lEyXDco',
+      useTemplateId: 'BdXzh16n8xPhmtx8piqUk8mww192uQauM2x0GflKkyU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
