@@ -34,7 +34,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '*生日', name: '乖巧思考猫', year: '1996', date: '12-22',
+          type: '生日', name: '乖巧思考猫', year: '1997', date: '01-30',
         },
         {
           type: '节日', name: '相恋纪念日', year: '2021', date: '03-09',
